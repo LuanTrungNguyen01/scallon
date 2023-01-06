@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid" width="265" height="57" viewBox="0 0 265 57">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #c9b486;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2, .cls-3 {
+        stroke: #fff;
+        stroke-linejoin: round;
+        stroke-width: 1px;
+        fill-opacity: 0;
+      }
+
+      .cls-2 {
+        opacity: 0.15;
+      }
+
+      .cls-3, .cls-4 {
+        fill: #fff;
+      }
+
+      .cls-4 {
+        opacity: 0.7;
+      }
+    </style>
+  </defs>
+  <g>
+    <path d="M132.000,14.007 L145.993,28.000 L132.000,41.993 L118.007,28.000 L132.000,14.007 Z" class="cls-1"/>
+    <path d="M132.500,0.487 L160.513,28.500 L132.500,56.513 L104.487,28.500 L132.500,0.487 Z" class="cls-2"/>
+    <g>
+      <path d="M106.500,21.503 L113.496,28.500 L106.500,35.497 L99.504,28.500 L106.500,21.503 Z" class="cls-3"/>
+      <rect y="27.5" width="100" height="1" class="cls-4"/>
+    </g>
+    <g>
+      <path d="M158.500,21.503 L165.496,28.500 L158.500,35.497 L151.504,28.500 L158.500,21.503 Z" class="cls-3"/>
+      <rect x="165" y="27.5" width="100" height="1" class="cls-4"/>
+    </g>
+  </g>
+</svg>
